@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated data
+images/
+outputs/
+runs/
+test_images/
+detector_dataset/
+
+# ML models / weights
+models/
+weights/
+*.pt
+
+# Environment
+.venv/
+venv/
+.env
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
